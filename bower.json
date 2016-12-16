@@ -1,0 +1,20 @@
+{
+  "name": "NGUtil-Bower",
+  "description": "Reusable directives that can be used in Angular project",
+  "license": "MIT",
+  "private": true,
+  "homepage": "uxGeeks.blogspot.com",
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-ui-router": "0.3.1",
+    "angular-bootstrap": "^2.3.1",
+    "bootstrap": "^3.3.7"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
